@@ -6,5 +6,5 @@ languages:
     package: wayza-human
 github: https://github.com/wayza-protocol/wayza-js/tree/main/packages/human-py
 docsUrl: https://wayza.com/docs/strands/
-maintainedBy: partner
+maintainedBy: community
 addedDate: 2026-10-20
